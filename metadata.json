@@ -1,0 +1,8 @@
+{
+    "name": "Background Image Overlay",
+    "description": "Allows a user to place images overlaying the background",
+    "uuid": "Background_Image_Overlay@1angdon.com",
+    "shell-version": [
+        "3.26.2"
+    ]
+}
